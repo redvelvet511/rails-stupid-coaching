@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+ h1 {
+  font-size: 60px;
+ }
+
+ h2 {
+  font-size: 20px;
+  font-weight: lighter;
+ }
+
+ h3 {
+  font-size: 20px;
+  font-weight: lighter;
+ }
+
+ .button {
+  font-style: none;
+ }
